@@ -7,6 +7,7 @@ Carrinho de Pizzas
 Este projeto foi criado durante o módulo de JavaScript do curso B7 Web.
 
 O objetivo da aplicação é simular um carrinho de compras de uma pizzaria, utilizando JavaScript.
+<br><a href="https://luc-ribeiro.github.io/pizzas-cart/">Live Preview</a>
 
 ## 🚀 Tecnologias
 
